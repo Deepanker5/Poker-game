@@ -1,1 +1,1 @@
-# Poker-game
+This program is an optional task that we could do during a programming course in my university. We were given a template to work with - this can be seen in the "poker_template.py" file - and we had to create a poker game where the player plays against the computer, the program that I made can be seen in the file "Poker_Game_Program.py". The sample output of the porgram can be seen in the file "Poker_Game_Program_sample_output".
